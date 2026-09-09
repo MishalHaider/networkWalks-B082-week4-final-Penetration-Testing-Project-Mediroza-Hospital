@@ -1,6 +1,4 @@
 # networkWalks-B082-week4-final-Penetration-Testing-Project-Mediroza-Hospital
-Final Penetration Testing Project-Mediroza Hospital
-
 
 # NETWORKWALKS | CONFIDENTIAL TRAINING ENGAGEMENT
 # Mediroza General Hospital — Black-Box Penetration Test Report
