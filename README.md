@@ -7,9 +7,11 @@ Final Penetration Testing Project-Mediroza Hospital
 
 | | |
 |---|---|
-| **Program** | Networkwalks Penetration Testing Training Program |
+| **Program** | Networkwalks Internship|
 | **Batch** | B082 — Week 4 |
 | **Prepared By** | Mishal |
+| **LinkedIn** | www.linkedin.com/in/mishal-haider-9b750b37a |
+| **Instructor :** | Waqas Karim CCIE |
 | **Client** | Mediroza General Hospital |
 | **Target** | https://medirozahospital.com |
 | **Engagement Type** | Full Black-Box Penetration Test |
